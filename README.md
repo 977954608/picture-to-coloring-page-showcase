@@ -1,72 +1,72 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Picture To Coloring Page 标志" width="120" height="120">
+  <img src="assets/logo.png" alt="Picture To Coloring Page logo" width="120" height="120">
 </p>
 
-# Picture To Coloring Page：把照片变成可打印的涂色页
+# Picture To Coloring Page — AI Photo to Coloring Page Converter
 
-用 AI 将家人、宠物或喜爱场景的照片转换成专属涂色页，为亲子活动、课堂和个人创作增添熟悉的画面。
+Turn your photos into personalized, printable coloring pages with AI. Start with a picture of your family, pet, or favorite scene and make your next coloring activity personal.
 
-**[访问官方网站，开始制作涂色页](https://picturetocoloringpages.com)** · [中文网站](https://picturetocoloringpages.com/zh) · [问题与建议](https://github.com/977954608/picture-to-coloring-page-showcase/issues)
+**[Try Picture To Coloring Page](https://picturetocoloringpages.com)** · [Chinese Website](https://picturetocoloringpages.com/zh) · [Feedback & Ideas](https://github.com/977954608/picture-to-coloring-page-showcase/issues)
 
-![照片与涂色页效果对比](assets/01-social-preview.png)
+![Before and after: turn a photo into a printable coloring page](assets/01-social-preview.png)
 
-## 产品功能
+## Features
 
-- **照片转换**：上传 JPG、PNG 或 WebP 图片，生成个性化涂色页。
-- **四种风格**：选择经典线稿、卡通、浅色描摹或吉卜力灵感风格。
-- **独立细节调节**：选择简单、标准或丰富细节，调整涂色区域的数量与复杂程度。
-- **多种分辨率**：支持选择 1K、2K 或 4K，生成前查看所需积分。
-- **下载与打印**：下载没有额外水印的结果，或通过浏览器打印；可在打印对话框选择另存为 PDF。
-- **注册试用**：新用户可获得试用积分，登录后体验生成。
+- **Photo to coloring page:** Upload a JPG, PNG, or WebP image to create a personalized coloring page.
+- **Four outline styles:** Choose Classic, Cartoon, Light Tracing, or Ghibli-inspired outlines.
+- **Adjustable detail:** Select Simple, Standard, or Rich detail to control the number and complexity of coloring areas independently of the art style.
+- **Multiple resolutions:** Choose 1K, 2K, or 4K and review the credit cost before generating.
+- **Download and print:** Save your result without an added watermark or print it from your browser. Use the print dialog to save as PDF if needed.
+- **Free trial credits:** New users receive signup credits to try generation after signing in.
 
-## 同一张照片，不同的创作方向
+## One Photo, Four Creative Directions
 
-![经典、卡通、浅色描摹和吉卜力灵感四种风格](assets/02-four-styles.png)
+![Classic, Cartoon, Light Tracing, and Ghibli-inspired coloring page styles](assets/02-four-styles.png)
 
-风格决定轮廓的表现形式，细节等级决定涂色区域的疏密。可以根据照片内容、涂色者偏好和打印尺寸选择组合。
+Art style shapes the look of the outlines, while detail level controls how many coloring areas appear. Choose a combination that suits your photo, the person coloring, and your intended print size.
 
-## 使用方法
+## How It Works
 
-1. [打开官网](https://picturetocoloringpages.com)，上传主体清晰的照片。
-2. 选择风格、细节等级、画面比例与分辨率。
-3. 登录并确认积分消耗，生成后检查预览。
-4. 下载结果，或在浏览器打印预览中设置纸张、方向与缩放。
+1. [Visit the website](https://picturetocoloringpages.com) and upload a photo with a clear subject.
+2. Choose your style, detail level, aspect ratio, and resolution.
+3. Sign in, review the credit cost, and generate your coloring page.
+4. Check the preview, then download your result or set paper size, orientation, and scaling in your browser's print dialog.
 
-![产品实际操作界面与内置示例预览](assets/03-product-workspace.png)
+![The product workspace showing its built-in photo and coloring page example](assets/03-product-workspace.png)
 
-## 适合哪些场景
+## Made for Personal Creative Moments
 
-- **家庭与亲子**：用家人、宠物和旅行照片制作专属涂色活动。
-- **课堂与兴趣活动**：从自然、静物和熟悉的物品中准备创作素材。
-- **个人休闲**：为喜爱的照片尝试不同轮廓风格，享受涂色过程。
+- **Families:** Turn portraits, pet photos, and travel memories into shared coloring activities.
+- **Classrooms and groups:** Prepare creative materials from nature, still-life scenes, and familiar objects.
+- **Personal downtime:** Explore different outline styles with pictures you love and enjoy adding your own colors.
 
-## 常见问题
+## Frequently Asked Questions
 
-### 这是开源项目吗？
+### Is this an open-source project?
 
-本仓库用于公开介绍产品、展示效果并收集反馈，不包含网站应用源码。请直接通过官网使用产品。
+This repository is a public product showcase for screenshots, product information, and feedback. It does not contain the application's source code. Use the product directly on the website.
 
-### 可以免费试用吗？
+### Can I try it for free?
 
-新用户注册可获得试用积分。生成会消耗积分，不同设置的费用以提交前显示的信息为准。
+New users receive trial credits when they sign up. Generation uses credits, and the cost depends on your settings. Review the displayed cost before submitting.
 
-### 可以直接下载 PDF 吗？
+### Can I download a PDF directly?
 
-结果可下载为图片。需要 PDF 时，请使用浏览器打印对话框中的另存为 PDF 功能。
+You can download your result as an image. To create a PDF, use the Save as PDF option in your browser's print dialog.
 
-### 生成效果是否完全一致？
+### Will every result look the same?
 
-AI 结果会因输入图片、风格和设置而有所不同。建议使用主体清晰、光线充足的照片，并在打印前检查轮廓与细节。
+AI results vary with the input photo, style, and settings. Start with a clear, well-lit subject and inspect the outlines and details before printing.
 
-## 反馈与联系
+## Feedback and Support
 
-欢迎通过 [GitHub 问题反馈](https://github.com/977954608/picture-to-coloring-page-showcase/issues) 提交功能建议或可公开的问题说明。
+Have an idea or found an issue? Share feature requests and public bug reports through [GitHub Issues](https://github.com/977954608/picture-to-coloring-page-showcase/issues).
 
-涉及账号、支付或个人照片的问题，请发送至 [官方支持邮箱](mailto:support@picturetocoloringpages.com)，避免在公开反馈中包含个人信息。
+For account, billing, or personal photo questions, contact [our support team](mailto:support@picturetocoloringpages.com). Please keep personal information out of public issues.
 
-## 相关链接
+## Links
 
-- [官方网站](https://picturetocoloringpages.com)
-- [中文网站](https://picturetocoloringpages.com/zh)
-- [隐私政策](https://picturetocoloringpages.com/privacy-policy)
-- [服务条款](https://picturetocoloringpages.com/terms-of-service)
+- [Official Website](https://picturetocoloringpages.com)
+- [Chinese Website](https://picturetocoloringpages.com/zh)
+- [Privacy Policy](https://picturetocoloringpages.com/privacy-policy)
+- [Terms of Service](https://picturetocoloringpages.com/terms-of-service)
